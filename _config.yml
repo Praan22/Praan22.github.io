@@ -3,5 +3,5 @@ plugins:
 - jekyll-remote-theme 
 
 show_downloads: false
-title: ""
-description: ""
+title: "IM"
+description: "Learning Markdown Language"
